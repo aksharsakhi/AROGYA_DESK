@@ -71,4 +71,8 @@ For any inquiries or contributions, please reach out to:
 
 **Name**: Akshar Sakhi  
 **Email**: aksharsakhi@gmail.com 
+
+
+##  Rights
+
 **All rights reserved by Team MAN-C**
