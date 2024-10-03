@@ -76,7 +76,4 @@ For any inquiries or contributions, please reach out to:
 ##  Rights
 
 **All rights reserved by Team MAN-C**
-**S Akshar Sakhi**
-**Nishanth S Gowda**
-**Chirag**
-**Midhunan**
+
