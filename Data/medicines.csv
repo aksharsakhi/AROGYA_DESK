@@ -1,0 +1,42 @@
+Disease,Medicine1,Medicine2,Medicine3
+Drug Reaction, Hydroxyzine hydrochloride ,Methyl prednisolone ,Epinephrine
+Malaria,Chloroquine,Mefloquine,Artemether-Lumefantrine
+Allergy, Hydroxyzine hydrochloride ,Epinephrine,
+Hypothyroidism,Levothyroxine,,
+Psoriasis,Momethasone cream,Methotrexate,Cyclosporine
+GERD,Omeprazole,Ranitidine,
+Chronic cholestasis,Ursodeoxycholic Acid,Cholestyramine,
+Hepatitis A,Vaccination,Rest,Hydration
+Osteoarthritis,Acetaminophen,Aceclofenac,Glucosamine
+(vertigo) Paroxysmal Positional Vertigo,Meclizine,Dimenhydrinate,
+Hypoglycemia,,Dextrose,Glucagon
+Acne,Benzoyl Peroxide,Clindamycin,Isotretinoin
+Diabetes,Metformin,Insulin,Sulfonylureas
+Impetigo,Mupirocin,Cephalexin,Erythromycin
+Hypertension,Amlodipine,Losartan,Lisinopril
+Peptic ulcer disease,Omeprazole,Clarithromycin,Amoxicillin
+Dimorphic hemorrhoids (piles),Hydrocortisone,Witch Hazel,Fiber Supplements
+Common Cold,Paracetamol,Levocetrizine,Saline nasal drops
+Chicken pox,Acyclovir,Calamine Lotion,Paracetamol
+Cervical spondylosis,Aceclofenac ,Muscle Relaxants,Physiotherapy
+Hyperthyroidism,Methimazole,Propylthiouracil,Beta-blockers
+Urinary tract infection,Nitrofurantoin,More water intake,Trimethoprim-Sulfamethoxazole
+Varicose veins,Compression Stockings,Sclerotherapy,Surgery
+AIDS,Antiretroviral Therapy (ART),,
+Paralysis (brain hemorrhage),Surgery,Sodium valproate ,Rehabilitation
+Typhoid,Ciprofloxacin,Paracetamol ,Ceftriaxone
+Hepatitis B,Tenofovir,Entecavir,Pegylated Interferon
+Fungal infection,Fluconazole,Itraconazole,Terbinafine
+Hepatitis C,Sofosbuvir,Ribavirin,Ledipasvir
+Migraine,Sumatriptan,Ibuprofen,Propranolol
+Bronchial Asthma,Salbutamol,Budesonide,Montelukast
+Alcoholic hepatitis,Prednisolone,Pentoxifylline,Vitamin B Complex
+Jaundice,Phototherapy,Ursodeoxycholic Acid,Vitamin K
+Hepatitis E,Supportive Care,Hydration,Vitamin Supplements
+Dengue,Paracetamol,Oral Rehydration Salts,Platelet Transfusion (in severe cases)
+Hepatitis D,Interferon Alfa,Pegylated Interferon,
+Heart attack,Aspirin,Nitroglycerin,Clopidogrel
+Pneumonia,Amoxicillin,Azithromycin,Paracetamol 
+Arthritis,Aceclofenac ,Methotrexate,Infliximab
+Gastroenteritis,Oral Rehydration Solution (ORS),Loperamide,Metronidazole(if bacterial)
+Tuberculosis,Isoniazid,Rifampicin,"Pyrazinamide,ethambutol"
