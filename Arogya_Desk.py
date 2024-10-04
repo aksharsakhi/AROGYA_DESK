@@ -92,8 +92,8 @@ def text_to_speech(text):
 
 
 # Load Datasets for training and testing
-training = pd.read_csv('/home/parallels/Documents/VScode/Symptom-Based-Disease-Prediction-Chatbot-Using-NLP-main/Data/Training.csv')
-testing= pd.read_csv('/home/parallels/Documents/VScode/Symptom-Based-Disease-Prediction-Chatbot-Using-NLP-main/Data/Testing.csv')
+training = pd.read_csv('Data/Training.csv')
+testing= pd.read_csv('Data/Testing.csv')
 
 
 # In[58]:
@@ -270,7 +270,7 @@ def calc_condition(exp,days):
 # Function to read and store symptom descriptions from a CSV file
 def getDescription():
     global description_list
-    with open('/home/parallels/Documents/VScode/Symptom-Based-Disease-Prediction-Chatbot-Using-NLP-main/Data/symptom_Description.csv') as csv_file:
+    with open('Data/symptom_Description.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
         for row in csv_reader:
@@ -282,7 +282,7 @@ def getDescription():
 # Function to read and store symptom severity information from a CSV file
 def getSeverityDict():
     global severityDictionary
-    with open('/home/parallels/Documents/VScode/Symptom-Based-Disease-Prediction-Chatbot-Using-NLP-main/Data/Symptom_severity.csv') as csv_file:
+    with open('Data/Symptom_severity.csv') as csv_file:
 
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
@@ -298,7 +298,7 @@ def getSeverityDict():
 # Function to read and store symptom precaution information from a CSV file
 def getprecautionDict():
     global precautionDictionary
-    with open('/home/parallels/Documents/VScode/Symptom-Based-Disease-Prediction-Chatbot-Using-NLP-main/Data/symptom_precaution.csv') as csv_file:
+    with open('Data/symptom_precaution.csv') as csv_file:
 
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
@@ -373,7 +373,7 @@ import pandas as pd
 engine = pyttsx3.init()
 
 # Load medicines data from CSV file
-medicines_df = pd.read_csv('/home/parallels/Documents/VScode/Symptom-Based-Disease-Prediction-Chatbot-Using-NLP-main/Data/medicines.csv')
+medicines_df = pd.read_csv('Data/medicines.csv')
 
 def get_medicines(disease):
     """Return the list of medicines for the given disease."""
